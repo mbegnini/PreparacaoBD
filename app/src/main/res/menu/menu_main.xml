@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.preparacaobd.MainActivity">
+    <item
+        android:id="@+id/menuLoad"
+        android:orderInCategory="100"
+        android:title="@string/carregar"
+        app:showAsAction="never" />
+</menu>

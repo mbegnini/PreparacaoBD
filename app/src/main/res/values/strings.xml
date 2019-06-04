@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Filmes</string>
+    <string name="action_settings">Opções</string>
+    <string name="title_activity_insert_film">Cadastrar Filme</string>
+    <string name="ano">Ano</string>
+    <string name="genero">Genero</string>
+    <string name="titulo">Titulo</string>
+    <string name="gravar">Gravar</string>
+    <string name="carregar">Carregar</string>
+</resources>
